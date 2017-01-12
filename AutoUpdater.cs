@@ -2,7 +2,7 @@ using System;
 using System.Net;
 using System.Text;
 using System.Text.RegularExpressions;
-using System.Web.Script.Serialization;
+using System.Web.Script.Serialization /* Add System.Web.Extesnion Reference */;
 using System.Windows.Forms;
 
 class AutoUpdater
@@ -79,4 +79,3 @@ class AutoUpdater
         return currentVersion;
     }
 }
-
