@@ -1,0 +1,9 @@
+c:\users\mine-hp\documents\visual studio 2017\Projects\AutoUpdater_Demo\AutoUpdater_Demo\obj\Debug\AutoUpdater_Demo.csprojResolveAssemblyReference.cache
+c:\users\mine-hp\documents\visual studio 2017\Projects\AutoUpdater_Demo\AutoUpdater_Demo\obj\Debug\AutoUpdater_Demo.Properties.Resources.resources
+c:\users\mine-hp\documents\visual studio 2017\Projects\AutoUpdater_Demo\AutoUpdater_Demo\obj\Debug\AutoUpdater_Demo.csproj.GenerateResource.Cache
+c:\users\mine-hp\documents\visual studio 2017\Projects\AutoUpdater_Demo\AutoUpdater_Demo\bin\Debug\AutoUpdater_Demo.exe.config
+c:\users\mine-hp\documents\visual studio 2017\Projects\AutoUpdater_Demo\AutoUpdater_Demo\bin\Debug\AutoUpdater_Demo.exe
+c:\users\mine-hp\documents\visual studio 2017\Projects\AutoUpdater_Demo\AutoUpdater_Demo\bin\Debug\AutoUpdater_Demo.pdb
+c:\users\mine-hp\documents\visual studio 2017\Projects\AutoUpdater_Demo\AutoUpdater_Demo\obj\Debug\AutoUpdater_Demo.exe
+c:\users\mine-hp\documents\visual studio 2017\Projects\AutoUpdater_Demo\AutoUpdater_Demo\obj\Debug\AutoUpdater_Demo.pdb
+C:\Users\MINE-HP\Documents\Visual Studio 2017\Projects\AutoUpdater_Demo\AutoUpdater_Demo\obj\Debug\AutoUpdater_Demo.frmMain.resources
