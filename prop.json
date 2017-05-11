@@ -5,7 +5,7 @@
   "IsClosed": false,
   "ClosedMessage": "Im So Angry"
   
-  "WhiteList" : {
+  "WhiteList" : [
       "Waleed"
-  }
+  ]
 }
