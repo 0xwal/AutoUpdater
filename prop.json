@@ -4,4 +4,8 @@
   "ChangeLog": "",
   "IsClosed": false,
   "ClosedMessage": "Im So Angry"
+  
+  "WhiteList" : {
+      "Waleed"
+  }
 }
