@@ -3,9 +3,5 @@
   "DownloadUrl": "media fire link",
   "ChangeLog": "",
   "IsClosed": false,
-  "ClosedMessage": "Im So Angry",
-  
-  "WhiteList" : [
-      "Waleed"
-  ]
+  "ClosedMessage": "Im So Angry"
 }
